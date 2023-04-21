@@ -1,0 +1,1 @@
+@reboot /usr/bin/python3 /shared_folder/pytest_script.py &
